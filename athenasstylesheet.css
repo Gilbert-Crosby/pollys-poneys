@@ -1,0 +1,16 @@
+body {
+    background-color: #FF69B4;
+}
+
+.smiley {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.forButtons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
