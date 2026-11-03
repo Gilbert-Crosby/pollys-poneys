@@ -8,8 +8,9 @@ body{
 
 }
 
-p {
+p1{
   color: bisque;
+  text-align: center;
 }
 
 h1 {
