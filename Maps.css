@@ -18,3 +18,7 @@
     background-color: #ffffff; /* White */
     color: #555555;
   }
+.hero {
+    background: linear-gradient(135deg, #17ac8e,#474e5d );
+    min-height: 50vh;
+}
